@@ -1,0 +1,9 @@
+token.txt
+node_modules/
+.vscode/
+*.bak
+out/
+*.sqlite3
+*.js
+bot.json
+*.log

@@ -1,0 +1,23 @@
+{
+  "name": "aliasbot_sqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bluebird": "^3.5.29",
+    "@types/sqlite3": "^3.1.6",
+    "bluebird": "^3.7.2",
+    "discord.js": "^11.5.1",
+    "odbc": "^2.2.2",
+    "sqlite3": "^4.1.1",
+    "typescript": "^3.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
+}

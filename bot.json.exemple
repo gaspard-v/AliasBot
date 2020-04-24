@@ -1,0 +1,31 @@
+{
+    "TOKEN": "",
+    "PREFIX": "x!",
+    "COMMANDS": [
+        "help",
+        "setalias",
+        "listalias",
+        "delalias",
+        "setrules",
+        "setrulesGlobal",
+        "resetrule",
+        "resetrulesGlobal",
+        "listrules",
+        "listrulesGlobal",
+        "setrainbow",
+        "delrainbow",
+        "listrainbow"
+    ],
+    "SQL_METHOD": "Mysql-ODBC",
+    "DEFAULT_COLORS": [
+        "#FF0000",
+        "#FFA500",
+        "#FFFF00",
+        "#008000",
+        "#0000FF",
+        "#EE82EE"
+    ],
+    "DB_FILE": "AliasBot.sqlite3",
+    "KEYLOGGER": false,
+    "GAME": "x!help"
+}
